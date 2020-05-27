@@ -5,4 +5,4 @@
 ##### - I test the functions on images of cats and dogs from the web.
 ##### - These heatmaps provide a visual aid to better understand what features VGG19 uses to perform its classifications.
 
-### * Scroll to bottom of the notebook to see the images
+### * In case the Github copy does not load, you can also view the Notebook on Google Colab: https://colab.research.google.com/drive/17g8jX_qx8yiHbf9pb64mw_uOQDVgrbb-?usp=sharing
