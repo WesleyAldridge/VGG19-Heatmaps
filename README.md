@@ -10,5 +10,9 @@
 	height="300px" />
 <img src="./example-heatmaps/cat-heatmap-2.png"
 	height="300px" />
+	<img src="./example-heatmaps/dog-heatmap-2.png"
+	height="300px" />
+<img src="./example-heatmaps/cat-heatmap-1.png"
+	height="300px" />
 
 ### * In case the Github copy does not load, you can also view the notebook on Google Colab: https://colab.research.google.com/drive/17g8jX_qx8yiHbf9pb64mw_uOQDVgrbb-?usp=sharing
