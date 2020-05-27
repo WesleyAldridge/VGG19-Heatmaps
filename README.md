@@ -6,6 +6,8 @@
 ##### - These heatmaps provide a visual aid to better understand what features VGG19 uses to perform its classifications.
 
 ### Examples:
+<img src="./example-heatmaps/dog-heatmap-1.png"
+	width="150" height="100" />
 ![](./example-heatmaps/dog-heatmap-1.png)
 ![](./example-heatmaps/cat-heatmap-2.png)
 
