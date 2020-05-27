@@ -7,7 +7,7 @@
 
 ### Examples:
 <img src="./example-heatmaps/dog-heatmap-1.png"
-	width="150" height="100" />
+	width="50%" />
 ![](./example-heatmaps/dog-heatmap-1.png)
 ![](./example-heatmaps/cat-heatmap-2.png)
 
