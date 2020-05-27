@@ -6,6 +6,7 @@
 ##### - These heatmaps provide a visual aid to better understand what features VGG19 uses to perform its classifications.
 
 ### Examples:
+![](https://www.bing.com/images/blob?bcid=TpxjdhcIdV4Bhg)
 ![](https://www.bing.com/images/blob?bcid=Tr27DmHrBV4BNQ)
 
 ### * In case the Github copy does not load, you can also view the notebook on Google Colab: https://colab.research.google.com/drive/17g8jX_qx8yiHbf9pb64mw_uOQDVgrbb-?usp=sharing
